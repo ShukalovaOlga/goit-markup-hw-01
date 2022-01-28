@@ -1,0 +1,29 @@
+.body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F5F7FA;
+}
+.logo-WebStudio{
+position: absolute;
+width: 145px;
+height: 31px;
+left: 215px;
+top: 24px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 31px;
+}
+.blue-accents{
+letter-spacing: 0.03em;
+color: #2196F3;
+}
+
+/* font-family: Oleo Script;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0.03em;
+text-align: left; */
